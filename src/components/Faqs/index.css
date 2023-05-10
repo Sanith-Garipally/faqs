@@ -1,0 +1,26 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+}
+.content-container {
+  margin: 50px 0;
+  width: 80%;
+  max-width: 1000px;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.head {
+  margin-top: 50px;
+  color: #cb8805;
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+.list-container {
+  list-style-type: none;
+  padding: 20px;
+}
